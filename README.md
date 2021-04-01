@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ungbk!
+- 👀 I’m interested in getting more experience with different SWE roles
+- 🌱 I’m currently learning web dev and database management, but I'm open to learning other things as well
+- 📫 How to reach me: bradleyung01@gmail.com

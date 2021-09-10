@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ungbk!
-- 👀 I’m interested in getting more experience SWE experience
+- 👀 I’m interested in new grad SWE positions
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: bradleyung01@gmail.com

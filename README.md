@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ungbk!
+- 👋 Hi, I’m Bradley!
 - 📫 How to reach me: bradleyung01@gmail.com
